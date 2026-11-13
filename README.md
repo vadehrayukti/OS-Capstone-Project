@@ -2,9 +2,6 @@
  A Python-based Operating System simulator implementing CPU scheduling, memory management, deadlock avoidance, and disk scheduling algorithms with performance comparisons, visualizations, and automated testing.
 
 # OS Resource Management Simulator
-
-A Python and Bash-based command-line application that simulates and compares major Operating System resource-management algorithms.
-
 ## 1. Project Overview
 
 The OS Resource Management Simulator demonstrates important Operating System concepts through the implementation of CPU scheduling, memory allocation, deadlock management, and disk scheduling algorithms.
