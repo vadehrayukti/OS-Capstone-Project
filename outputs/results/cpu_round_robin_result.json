@@ -1,0 +1,92 @@
+{
+    "algorithm": "Round Robin",
+    "time_quantum": 2,
+    "process_results": [
+        {
+            "pid": "P1",
+            "arrival_time": 0,
+            "burst_time": 5,
+            "completion_time": 14,
+            "turnaround_time": 14,
+            "waiting_time": 9,
+            "response_time": 0
+        },
+        {
+            "pid": "P2",
+            "arrival_time": 1,
+            "burst_time": 3,
+            "completion_time": 11,
+            "turnaround_time": 10,
+            "waiting_time": 7,
+            "response_time": 1
+        },
+        {
+            "pid": "P3",
+            "arrival_time": 2,
+            "burst_time": 8,
+            "completion_time": 18,
+            "turnaround_time": 16,
+            "waiting_time": 8,
+            "response_time": 2
+        },
+        {
+            "pid": "P4",
+            "arrival_time": 3,
+            "burst_time": 2,
+            "completion_time": 10,
+            "turnaround_time": 7,
+            "waiting_time": 5,
+            "response_time": 5
+        }
+    ],
+    "average_waiting_time": 7.25,
+    "average_turnaround_time": 11.75,
+    "average_response_time": 2.0,
+    "gantt_chart": [
+        {
+            "pid": "P1",
+            "start": 0,
+            "end": 2
+        },
+        {
+            "pid": "P2",
+            "start": 2,
+            "end": 4
+        },
+        {
+            "pid": "P3",
+            "start": 4,
+            "end": 6
+        },
+        {
+            "pid": "P1",
+            "start": 6,
+            "end": 8
+        },
+        {
+            "pid": "P4",
+            "start": 8,
+            "end": 10
+        },
+        {
+            "pid": "P2",
+            "start": 10,
+            "end": 11
+        },
+        {
+            "pid": "P3",
+            "start": 11,
+            "end": 13
+        },
+        {
+            "pid": "P1",
+            "start": 13,
+            "end": 14
+        },
+        {
+            "pid": "P3",
+            "start": 14,
+            "end": 18
+        }
+    ]
+}

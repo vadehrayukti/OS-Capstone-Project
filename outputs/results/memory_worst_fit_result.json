@@ -1,0 +1,41 @@
+{
+    "algorithm": "Worst Fit",
+    "allocations": [
+        {
+            "process": "P1",
+            "process_size": 212,
+            "block": 5,
+            "block_size": 600,
+            "internal_fragmentation": 388,
+            "status": "Allocated"
+        },
+        {
+            "process": "P2",
+            "process_size": 417,
+            "block": 2,
+            "block_size": 500,
+            "internal_fragmentation": 83,
+            "status": "Allocated"
+        },
+        {
+            "process": "P3",
+            "process_size": 112,
+            "block": 4,
+            "block_size": 300,
+            "internal_fragmentation": 188,
+            "status": "Allocated"
+        },
+        {
+            "process": "P4",
+            "process_size": 426,
+            "block": null,
+            "block_size": null,
+            "internal_fragmentation": null,
+            "status": "Not Allocated"
+        }
+    ],
+    "total_processes": 4,
+    "allocated_processes": 3,
+    "unallocated_processes": 1,
+    "total_internal_fragmentation": 659
+}

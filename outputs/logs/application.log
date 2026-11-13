@@ -1,0 +1,11 @@
+2026-11-13 10:39:25,890 - INFO - Result saved: fcfs_result.json
+2026-11-13 10:44:36,727 - INFO - CSV report saved: memory_comparison.csv
+2026-11-13 10:44:37,769 - INFO - Chart generated: memory_comparison.png
+2026-11-13 10:44:48,414 - INFO - Result saved: memory_worst_fit_result.json
+2026-11-13 10:44:53,369 - INFO - CSV report saved: memory_comparison.csv
+2026-11-13 10:44:53,530 - INFO - Chart generated: memory_comparison.png
+2026-11-13 10:45:16,145 - INFO - CSV report saved: disk_comparison.csv
+2026-11-13 10:45:16,302 - INFO - Chart generated: disk_comparison.png
+2026-11-13 10:46:24,028 - INFO - Result saved: cpu_sjf_(non-preemptive)_result.json
+2026-11-13 10:46:32,616 - INFO - Result saved: cpu_round_robin_result.json
+2026-11-13 11:01:20,167 - INFO - Result saved: deadlock_bankers_algorithm_result.json
