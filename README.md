@@ -1,6 +1,7 @@
 # OS-Capstone-Project
  A Python-based Operating System simulator implementing CPU scheduling, memory management, deadlock avoidance, and disk scheduling algorithms with performance comparisons, visualizations, and automated testing.
 
+Author- YUKTI VADEHRA (2401010128)
 # OS Resource Management Simulator
 ## 1. Project Overview
 
