@@ -85,9 +85,6 @@ OS-Resource-Management-Simulator/
 │   └── logs/
 │
 ├── screenshots/
-├── docs/
-│   └── project_report.docx
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
