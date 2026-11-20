@@ -167,22 +167,6 @@ The application also saves individual algorithm results in JSON format and maint
 outputs/logs/application.log
 ```
 
-## 9. Testing
-
-The project uses Pytest for automated testing.
-
-Run the test suite using:
-
-```bash
-bash scripts/test.sh
-```
-
-Alternatively:
-
-```bash
-python -m pytest -v
-```
-
 ### Test Summary
 
 | Module | Tests |
