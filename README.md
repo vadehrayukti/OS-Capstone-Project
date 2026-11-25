@@ -188,12 +188,6 @@ outputs/logs/application.log
 - Generate graphical and tabular performance reports.
 - Validate implementations through automated testing.
 
-## 11. Limitations
-
-- The application is a simulation and does not modify actual Operating System resource allocation.
-- Input data is provided through a JSON file.
-- Memory allocation uses fixed-size partitions.
-- The application provides a command-line interface rather than a graphical interface.
 
 ## 12. Conclusion
 
